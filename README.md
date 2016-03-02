@@ -59,6 +59,7 @@ switch (input) {
 }
 ```
 * default的情况要写出来
+
 > 每个switch语句都包含一个default语句组，即使它什么代码也不包含。
 
 ## 命名约定
