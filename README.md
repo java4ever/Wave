@@ -15,6 +15,7 @@
 * 数组初始化：可写成块状结构
 
 > 数组初始化可以写成块状结构，比如，下面的写法都是OK的
+
 ```
 new int[] {
   0, 1, 2, 3
@@ -60,6 +61,7 @@ switch (input) {
     handleLargeNumber(input);
 }
 ```
+
 * default的情况要写出来
 
 > 每个switch语句都包含一个default语句组，即使它什么代码也不包含。
