@@ -30,4 +30,5 @@
 从零开始的Android新项目1 - 架构搭建篇
 
 http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/
+
 http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p2/
