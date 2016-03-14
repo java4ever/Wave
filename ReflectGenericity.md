@@ -23,3 +23,11 @@
 #### TODO
 
 由于Android中Activity会因为各种原因被系统销毁， 所以presenter中的状态是需要有保存/回复机制的，否则数据会乱，保存Presenter机制有待设计
+
+
+### 博客
+
+从零开始的Android新项目1 - 架构搭建篇
+
+http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/
+http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p2/
